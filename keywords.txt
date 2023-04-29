@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+#######################################
+# # Datatypes (KEYWORD1)
+#######################################
+FLProgSystemRTC	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+pool	KEYWORD2
+setTime	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+HSE_RTC_MAX	LITERAL1
+IS_RTC_HOUR12(HOUR)	LITERAL1
+IS_RTC_WEEKDAY(WEEKDAY)	LITERAL1
+ONESECOND_IRQn	LITERAL1
+PREDIVA_MAX	LITERAL1
+PREDIVS_MAX	LITERAL1
+RTC_Alarm_IRQHandler	LITERAL1
+RTC_Alarm_IRQn	LITERAL1
+RTC_BKP_DATE	LITERAL1
+RTC_IRQ_PRIO	LITERAL1
+RTC_IRQ_SUBPRIO	LITERAL1
+__RTC_H	LITERAL1
